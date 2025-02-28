@@ -11,6 +11,9 @@ nav a {
   margin:5px;
   text-decoration:none;
   border-radius:5px;
+  
+}
+header {
   position: fixed;
     top: 0px;
     left: 0px;
@@ -18,7 +21,6 @@ nav a {
     display: flex;
     align-items: center;
     z-index: 1
-  
 }
 img {
   height:300px;
