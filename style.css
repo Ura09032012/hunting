@@ -4,7 +4,7 @@ h1, h2, h3 {
 main {
   background-color:white;
 }
-nav a {
+nav a{
   background-color:red;
   color:white;
   padding:5px;
@@ -12,6 +12,9 @@ nav a {
   text-decoration:none;
   border-radius:5px;
   
+}
+nav {
+  margin-bottom: 20px;
 }
 body , main {
   background-color: black;
