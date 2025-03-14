@@ -27,3 +27,7 @@ img {
 p {
   font-size:30px
 }
+nav a:hover {
+  color:red;
+  bacground-color:white;
+}
